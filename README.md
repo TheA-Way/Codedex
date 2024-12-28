@@ -12,8 +12,8 @@ Codédex is a brand new way to learn to code online. Journey through the fantasy
   [Check out my progress!](https://www.codedex.io/@ewherogh/30-nites-of-code)  
   ![@ewherogh #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ewherogh)
 
-    #30NitesOfCode is a habit-building Twitter / OPC challenge for those who want to commit to 30 consecutive days of learning to code. You start by choosing an virtual pet and it will be your companion for the journey.
-    Inspired by #100DaysOfCode and Tamagotchi.
+  #30NitesOfCode is a habit-building Twitter / OPC challenge for those who want to commit to 30 consecutive days of learning to code. You start by choosing an virtual pet and it will be your companion for the journey.
+  Inspired by #100DaysOfCode and Tamagotchi.
 
 
 ## Courses
