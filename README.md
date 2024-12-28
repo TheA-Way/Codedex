@@ -1,4 +1,4 @@
-![Codédex Logo]("README images\logo.png")
+![Codédex Logo](ReadmeImages/logo.png)
 
 This is the repo I'll be using to track my activities and progress on the Codédex site.
 
@@ -21,15 +21,15 @@ Inspired by #100DaysOfCode and Tamagotchi.
 
 ## Challenges
 ### Python
-- Control Flow: #/5
-- Loops: #/5
-- Functions: #/5
-- Lists: #/5
+Control Flow: #/5  
+Loops: #/5  
+Functions: #/5  
+Lists: #/5
 
 
 ### JavaScript
-- Conditionals: 1/5
-    [Conitionals Code](/Codédex/Challenges/JavaScript/Conditionals)
-- Loops: #/5
+Conditionals: 1/5  
+    [Conitionals Code](/Codédex/Challenges/JavaScript/Conditionals)  
+Loops: #/5
 
 ## Projects
