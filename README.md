@@ -29,7 +29,7 @@ Lists: #/5
 
 ### JavaScript
 Conditionals: 1/5  
-    [Conitionals Code](/Codédex/Challenges/JavaScript/Conditionals)  
+    &emsp;[Conitionals Code](/Codédex/Challenges/JavaScript/Conditionals)  
 Loops: #/5
 
 ## Projects
