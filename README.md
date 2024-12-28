@@ -1,4 +1,4 @@
-![Codédex Logo]("Codédex\README images\logo.png")
+![Codédex Logo]("README images\logo.png")
 
 This is the repo I'll be using to track my activities and progress on the Codédex site.
 
