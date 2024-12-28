@@ -19,6 +19,9 @@ Inspired by #100DaysOfCode and Tamagotchi.
 ## Courses
 
 
+## Projects
+
+
 ## Challenges
 ### Python
 Control Flow: #/5  
@@ -28,8 +31,6 @@ Lists: #/5
 
 
 ### JavaScript
-Conditionals: 1/5  
+Conditionals: 2/5  
     &emsp;[Conitionals Code](/Challenges/JavaScript/Conditionals)  
 Loops: #/5
-
-## Projects
