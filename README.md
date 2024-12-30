@@ -31,6 +31,6 @@ Lists: #/5
 
 
 ### JavaScript
-Conditionals: 2/5  
+Conditionals: 3/5  
     &emsp;[Conitionals Code](/Challenges/JavaScript/Conditionals)  
 Loops: #/5
