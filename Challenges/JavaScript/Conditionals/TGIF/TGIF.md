@@ -7,8 +7,17 @@ In many parts of the world, we look forward to Friday to kick off a weekend of l
 Let's use conditionals to tell if the weekend is upon us!
 
 First, define a day variable with a number between 1 and 7. So 1 represents Monday, 2 represents Tuesday, and so on.
-Based on the value of a day variable, use conditionals to log one of the following:
-If it's a weekday, log "Not Friday, yet!"
-If it's Friday, log "TGIF 🕺".
-If it's a weekend, log "Yay, weekends! 🙌".
-Otherwise, log "Wait, what day is it?"
+Based on the value of a day variable, use conditionals to log one of the following:\
+If it's a weekday, log "Not Friday, yet!"\
+If it's Friday, log "TGIF 🕺".\
+If it's a weekend, log "Yay, weekends! 🙌".\
+Otherwise, log "Wait, what day is it?" 
+
+
+
+
+Hint\
+You'll need to use a combination of the if, else if, and else keywords.\
+Comparison operators like === and >= will be helpful, too.
+
+![GIF of Friday I'm In Love by The Cure](GIF_of_Friday_I'm_In_Love_by_The_Cure.gif)

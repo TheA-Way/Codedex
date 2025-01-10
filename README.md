@@ -16,9 +16,6 @@ Codédex is a brand new way to learn to code online. Journey through the fantasy
 Inspired by #100DaysOfCode and Tamagotchi.
 
 
-## Courses
-
-
 ## Projects
 
 
@@ -31,6 +28,7 @@ Lists: #/5
 
 
 ### JavaScript
-Conditionals: 3/5  
-    &emsp;[Conitionals Code](/Challenges/JavaScript/Conditionals)  
-Loops: #/5
+Conditionals: 5/5  
+  &emsp;[Conitionals Code](/Challenges/JavaScript/Conditionals)  
+Loops: 1/5
+  &emsp;[Loops Code](/Challenges/JavaScript/Loops)

@@ -12,3 +12,20 @@ Define a rating variable as a number between 1 and 3, and log one of the followi
 "🌟🌟 is worth driving to."
 "🌟🌟🌟 is worth flying to."
 All other cases, log "Invalid."
+
+
+
+
+Hint
+For a refresher, to create an if/else if/else statement:
+```js
+    if (condition1) {
+    // some code
+    } else if (condition2) {
+    // some code
+    } else if (condition3) {
+    // some code
+    } else {
+    // some code
+    }
+```
